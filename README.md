@@ -89,9 +89,9 @@ If you’re new to woodworking, **start here**. Focus on skills that compound an
 
 | Title                          | Author      |
 | ------------------------------ | ----------- |
-| How to Buy Wood                | u/jakkarth  |
-| Wood Finishing Basics          | u/joelav    |
-| Proper Breadboard Construction | u/shazapple |
+| How to Buy Wood                | u/  |
+| Wood Finishing Basics          | u/   |
+| Proper Breadboard Construction | u/ |
 
 > Have a canonical post to nominate? Open an issue with a clear title and proof of originality.
 
